@@ -107,6 +107,7 @@ namespace K2lab1
             if (GaranteEndingYear >= 2023) Console.WriteLine
                     ($"Гарантiя закiнчується в {GaranteEndingYear} роцi ");
             else Console.WriteLine($"Гарантiя закiнчилась в {GaranteEndingYear} роцi ");
+            Console.WriteLine("\n \n Виконав: Лiвак Саша 2IСТ-23б");
             Console.ReadKey();
         }
     }
